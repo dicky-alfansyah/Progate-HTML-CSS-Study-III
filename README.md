@@ -1,1 +1,1 @@
-# Progate-HTML---CSS-Study-III
+# Progate-Project-Javascript
